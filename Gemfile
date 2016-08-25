@@ -52,3 +52,4 @@ group :test do
   # gem 'database_cleaner'
 end
 
+gem 'bootstrap-sass', '2.3.2.0'
